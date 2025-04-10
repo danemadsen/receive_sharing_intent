@@ -12,7 +12,7 @@ import Social
 import UIKit
 
 @available(swift, introduced: 5.0)
-open class LSIShareViewController: SLComposeServiceViewController {
+open class RSIShareViewController: SLComposeServiceViewController {
     var hostAppBundleIdentifier = ""
     var appGroupId = ""
     var sharedMedia: [SharedMediaFile] = []
